@@ -3,9 +3,9 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ageltz07)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-geltz/)
 
-Welcome to my Github page! I'm Adam and I am currently finishing my Bachelors in Computer Science!
+Welcome to my Github page!
 
-<img align="right" alt="img" src="https://i.pinimg.com/236x/36/ab/81/36ab81cd8d63cf7c4a08f39403698c77--python-programming-programming-humor.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://pbs.twimg.com/media/FP0ttbDWQAMTO7k.jpg" width="50%" height="auto" />
 
 
 #### 🔭 I’m currently working on ...
