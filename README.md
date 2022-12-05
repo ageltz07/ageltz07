@@ -18,7 +18,7 @@ Welcome to my Github page!
 - My way around AWS (EC2, Lambda, Elastic Beanstalk etc)
 - Web app development
 
-#### :Software tools and languages: Programming languages and tools: 
+#### Software Languages and Tools:
 <p>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
