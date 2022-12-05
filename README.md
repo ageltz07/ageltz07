@@ -1,16 +1,35 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--
-**ageltz07/ageltz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ageltz07)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adam-geltz/)
 
-Here are some ideas to get you started:
+Welcome to my Github page! I'm Adam and I am currently finishing my Bachelors in Computer Science!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="img" src="https://i.pinimg.com/236x/36/ab/81/36ab81cd8d63cf7c4a08f39403698c77--python-programming-programming-humor.jpg" width="50%" height="auto" />
+
+
+#### 🔭 I’m currently working on ...
+- Finishing my Bachelors in Computer Science
+- Looking for my first Software Engineer Role
+- Working out 3-5 days a week
+
+#### 🌱 I’m currently learning ...
+- The Spring framework for Java
+- My way around AWS (EC2, Lambda, Elastic Beanstalk etc)
+- Web app development
+
+#### :Software tools and languages: Programming languages and tools: 
+<p>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+</p>
