@@ -5,7 +5,7 @@
 
 Welcome to my Github page!
 
-<img align="right" alt="img" src="https://pbs.twimg.com/media/FP0ttbDWQAMTO7k.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://user-images.githubusercontent.com/84716534/206882837-2cb482e1-8000-4c88-af86-34bc0a01c0fa.png" width="50%" height="auto" />
 
 
 #### 🔭 I’m currently working on ...
@@ -17,6 +17,8 @@ Welcome to my Github page!
 - The Spring framework for Java
 - My way around AWS (EC2, Lambda, Elastic Beanstalk etc)
 - Web app development
+
+#### 🤖 The image to the right was made with DALL·E 2 from OpenAI!
 
 #### Software Languages and Tools:
 <p>
