@@ -18,7 +18,7 @@ Welcome to my Github page!
 - My way around AWS (EC2, Lambda, Elastic Beanstalk etc)
 - Web app development
 
-#### 🤖 The image to the right was made with DALL·E 2 from OpenAI!
+#### 🤖 The image to the right was made with OpenAI's DALL·E 2 Image Model!
 
 #### Software Languages and Tools:
 <p>
