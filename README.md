@@ -11,10 +11,9 @@ Welcome to my Github page!
 #### 🔭 I’m currently working on ...
 - Finishing my Bachelors in Computer Science
 - Looking for my first Software Engineer Role
-- Working out 3-5 days a week
 
 #### 🌱 I’m currently learning ...
-- The Spring framework for Java
+- Django for python web development
 - My way around AWS (EC2, Lambda, Elastic Beanstalk etc)
 - Web app development
 
