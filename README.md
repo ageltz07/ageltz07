@@ -9,13 +9,12 @@ Welcome to my Github page!
 
 
 #### 🔭 I’m currently working on ...
-- Finishing my Bachelors in Computer Science
 - Looking for my first Software Engineer Role
 
 #### 🌱 I’m currently learning ...
-- Django for python web development
-- My way around AWS (EC2, Lambda, Elastic Beanstalk etc)
-- Web app development
+- Django and other elements of web development
+- AWS (Studying for my AWS Solutions Architect Associate exam)
+- Docker and kubernetes
 
 #### 🤖 The image to the right was made with OpenAI's DALL·E 2 Image Model!
 
