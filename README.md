@@ -9,12 +9,12 @@ Welcome to my Github page!
 
 
 #### 🔭 I’m currently working on ...
-- Looking for my first Software Engineer Role
+- Looking for my first Software Engineering role
 
 #### 🌱 I’m currently learning ...
 - Django and other elements of web development
 - AWS (Studying for my AWS Solutions Architect Associate exam)
-- Docker and kubernetes
+- Docker
 
 #### 🤖 The image to the right was made with OpenAI's DALL·E 2 Image Model!
 
