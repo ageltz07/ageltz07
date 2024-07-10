@@ -8,13 +8,13 @@ Welcome to my Github page!
 <img align="right" alt="img" src="https://user-images.githubusercontent.com/84716534/206882837-2cb482e1-8000-4c88-af86-34bc0a01c0fa.png" width="50%" height="auto" />
 
 
-#### 🔭 I’m currently working on ...
-- Looking for my first Software Engineering role
+#### 🔭 I’m currently working as ...
+- Software Engineer at an Insurance Company
 
 #### 🌱 I’m currently learning ...
-- Django and other elements of web development
-- AWS (Studying for my AWS Solutions Architect Associate exam)
-- Docker
+- The Spring Framework and other elements of web development
+- Advanced topics in Java 
+- API Design and Best Practices
 
 #### 🤖 The image to the right was made with OpenAI's DALL·E 2 Image Model!
 
