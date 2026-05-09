@@ -9,14 +9,13 @@ Welcome to my Github page!
 
 
 #### 🔭 I’m currently working as ...
-- Software Engineer at an Insurance Company
+- Software Engineer
 
 #### 🌱 I’m currently learning ...
 - The Spring Framework and other elements of web development
 - Advanced topics in Java 
 - API Design and Best Practices
-
-#### 🤖 The image to the right was made with OpenAI's DALL·E 2 Image Model!
+- Frontend Development
 
 #### Software Languages and Tools:
 <p>
